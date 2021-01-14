@@ -2,9 +2,13 @@
 
 There are 8 folders in this repository from task_1 to task_8.
 
-## Dataset
+## About Dataset and How to Download it 
 In this repository of "flights_dataset_analysis", we have worked on 2018 and 2019 flights, passengers, and fuel consumption data. 
-Since the file was too large for GitHub, we decided to SQL each task's data and store it in a **google drive** folder. the link is provided in README.md of each task.
+Since the file was too large for GitHub, we decided to SQL each task's data and store it in a **google drive** folder. 
+
+You can find all the datasets [here](https://drive.google.com/drive/folders/1zBx3pN2ww0nmhL8eBtlrQk0aFPZzL8Pc?usp=sharing).
+
+The link for specific dataset is provided in **README.md** of each task.
 
 ## Exploratory Ananlysis
 
